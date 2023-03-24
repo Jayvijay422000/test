@@ -1,0 +1,157 @@
+//var , let , const
+
+//1) let
+
+//a) let variable cannot be re-declared 
+
+let society_name ;
+
+//let society_name; //this will give error
+
+//below will not give error
+
+var roll_number;
+
+var roll_number;
+
+//b)Variables defined with let must be declared before use.
+
+//this below code will give error
+salary=500;
+//let salary;
+
+//this below code not give error
+
+price=5000;
+var price;
+
+//c)Variables defined with let have block scope.
+
+//this below code will give error
+{
+   let x=10; 
+}
+// x can NOT be used here
+console.log(x);
+
+
+//this will not give error
+
+{
+    var y=10;
+}
+// x CAN be used here
+console.log(y);
+
+//****************example 2**************//
+
+let x = 10;
+// Here x is 10
+
+{
+let x = 2;
+// Here x is 2
+}
+
+// Here x is 10
+
+
+//****************example 3**************//
+
+var x = 10;
+// Here x is 10
+
+{
+var x = 2;
+// Here x is 2
+}
+
+// Here x is 2
+
+var x=11;
+
+
+
+
+
+//2) const
+
+//a)Cannot be Reassigned
+
+const password ="12e3";
+
+//password="abcd";
+
+
+//b)
+
+var mobile_number;
+
+mobile_number="101010";
+
+let salary;
+salary=5000;
+
+
+//below will give error
+
+/*
+const house_number;
+
+house_number=20;
+
+*/
+
+//we will se const later in course with topics like array
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

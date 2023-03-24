@@ -1,0 +1,24 @@
+0) write a program to display hello message.
+
+1) write a program in javascript to store price and display it.
+
+2) write a program to add two variable X and Y and display it.
+
+3) write a program to multiply three variable a ,b,c and display it.
+
+4) write a program to display square of x and display it.
+
+5) store value in x and  y and increase value of x and y using increment operator and display it.
+
+6) store value in x and  y and decrease value of x and y using DEcrement operator and display it.
+
+
+
+1) shree dhruvil kumar 
+2) shreedevi monika ben
+3) shree mehul maharaj 
+
+aap sau athithi o ne darkhast che
+uppar apela tamam saval ane temna sacha javab goti ne 5<->5 var lakhi lava vinanti che.
+
+aap no upkar apna par rhese

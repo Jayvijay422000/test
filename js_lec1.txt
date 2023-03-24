@@ -1,0 +1,73 @@
+//how to display output or messsage
+document.write("hello"+"         "+"student");
+document.write("hello student");
+document.write("hello student");
+
+
+console.log("good eve");
+
+//to intialize and declare variable 
+
+var mobile_number1,mobile_number2; // how to create variable 
+
+ // how to initialize or store value in variable
+
+mobile_number1="878090";
+
+mobile_number2="99099";
+
+// to display variable with message
+document.write("mobile 1: "+mobile_number1+"  mobile 2:"+mobile_number2);
+
+//example : to add two numbers
+
+var a=1 ,b=2; // how to initialize or store value in variable
+
+var sum=a+b;
+
+document.write("sum of two number is  "+sum+" this is answer");
+
+//document.write("sum of two number is  "+a+b+" this is answer");
+
+
+
+//vaild variable name
+
+var mehul, _mehul, mehul_dev , $mehul , mehul$dev , mehul1; 
+
+// not valid varibale name
+
+//var 1mehul, #mehul;
+
+//variable name is case sensitive 
+/*following all variable are different*/
+var mehul ;
+
+var MEHUL;
+
+var mehuL;
+
+var Mehul;
+
+
+var Var;
+
+let Let , LET;
+
+/*
+Underscore:
+
+first_name, last_name, master_card, inter_city.
+
+Upper Camel Case (Pascal Case):
+
+FirstName, LastName, MasterCard, InterCity.
+
+Lower Camel Case:
+
+JavaScript programmers tend to use camel case that starts with a lowercase letter:
+
+firstName, lastName, masterCard, interCity.
+
+*/
+
